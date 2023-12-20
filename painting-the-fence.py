@@ -9,3 +9,5 @@ class Solution:
             same_color, diff_color = diff_color, (same_color + diff_color) * (k - 1) % (10**9 + 7)
 
         return (same_color + diff_color) % (10**9 + 7)
+
+# https://www.geeksforgeeks.org/problems/rightmost-different-bit-1587115621/1

@@ -13,3 +13,5 @@ class Solution:
         leftover = money - (first_min_cost + second_min_cost)
 
         return max(leftover, 0) if leftover >= 0 else money
+
+# https://leetcode.com/problems/buy-two-chocolates/?envType=daily-question&envId=2023-12-20

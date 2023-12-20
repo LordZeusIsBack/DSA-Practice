@@ -1,5 +1,3 @@
-#User function Template for python3
-
 class Solution:
     def findWinner(self, n, A):
         xx = 0
@@ -31,3 +29,5 @@ class Solution:
                 return 2
             else:
                 return 1
+
+# https://www.geeksforgeeks.org/problems/variation-in-nim-game4317/1

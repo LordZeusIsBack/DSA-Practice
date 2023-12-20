@@ -13,3 +13,5 @@ class Solution:
             incl = new_incl
             excl = new_excl
         return max(incl, excl)
+
+# https://www.geeksforgeeks.org/problems/max-sum-without-adjacents2430/1

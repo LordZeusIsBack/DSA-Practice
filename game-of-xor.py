@@ -7,3 +7,5 @@ class Solution:
             if i % 2 == 0:
                 final_xor ^= A[i]
         return final_xor
+
+# https://www.geeksforgeeks.org/problems/game-of-xor1541/1

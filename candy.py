@@ -14,3 +14,5 @@ class Solution:
                 candies[i] = max(candies[i], candies[i + 1] + 1)
 
         return sum(candies)
+
+# https://www.geeksforgeeks.org/problems/candy/1
