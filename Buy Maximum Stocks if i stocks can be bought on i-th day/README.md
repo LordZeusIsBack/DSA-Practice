@@ -7,7 +7,6 @@ There is a rule that a customer can buy at most i stock on the ith day.</p>
 <p><strong class="example">Example 1:</strong></p>
 <pre><strong>Input:</strong> price = [10,7,19], k = 45
 <strong>Output:</strong> 4
-<p>&nbsp;</p>
 <strong>Explanation:</strong> A customer purchases 1 stock on day 1, 2 stocks on day 2 and 1 stock on day 3 for 10, 7 * 2 = 14 and 19 respectively. Hence, total amount is 10 + 14 + 19 = 43 and number of stocks purchased is 4.
 </pre>
 
@@ -15,6 +14,7 @@ There is a rule that a customer can buy at most i stock on the ith day.</p>
 
 <pre><strong>Input:</strong> price = [7,10,4], k = 100
 <strong>Output:</strong> 6
+<strong>Explanation:</strong> Buy on all 3 days.
 </pre>
 <p>&nbsp;</p>
 
