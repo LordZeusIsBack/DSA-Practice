@@ -22,7 +22,7 @@ point. They are {1, 1, 1, 1, 1},
 <p><strong>Your Task:</strong></p>
 
 <p>You don't need to read or print anyhting. Your task is to complete the function <strong>nthPoint()</strong> which takes <strong>N</strong> as input parameter and returns the total number of ways <strong>modulo 10^9 + 7</strong> to reach at <strong>Nth</strong> point.</p>
-<p><strong>Expected Time Complexity:</strong> O(N)
+<p><strong>Expected Time Complexity:</strong> O(N)<break>
 <strong>Expected Auxiliary Space:</strong> O(N)
 
 Constraints:
