@@ -26,5 +26,5 @@ point. They are {1, 1, 1, 1, 1},
 <strong>Expected Auxiliary Space:</strong> O(N)
 
 Constraints:
-1 <= N <= 10^5
+1 <= N <= 10^5</p>
 </div>
