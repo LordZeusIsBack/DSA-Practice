@@ -22,8 +22,7 @@ The third child gets 1 candy because it statisfies the above two conditions.
 <p>&nbsp;</p>
 <p><strong>Your Task</strong></p>
 
-<p>Your Task:
-You don't need to read input or print anything. Your task is to complete the function minCandy() which takes the interger N and integer array ratings as parameters and returns the minimum number of candies you need to have to distribute.</p>
+<p>You don't need to read input or print anything. Your task is to complete the function minCandy() which takes the interger N and integer array ratings as parameters and returns the minimum number of candies you need to have to distribute.</p>
 <p><strong>Expected Time Complexity</strong>: O(N)
 <strong>Expected Auxiliary Space</strong>: O(N)
 
