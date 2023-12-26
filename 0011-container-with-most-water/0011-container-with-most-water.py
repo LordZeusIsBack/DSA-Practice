@@ -6,5 +6,3 @@ class Solution:
             if height[f] < height[r]: f += 1
             else: r -= 1
         return area
-
-# https://leetcode.com/problems/container-with-most-water/description/
