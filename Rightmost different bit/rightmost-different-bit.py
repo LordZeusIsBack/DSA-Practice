@@ -12,5 +12,3 @@ class Solution:
             position += 1
         
         return position
-
-# https://www.geeksforgeeks.org/problems/rightmost-different-bit-1587115621/1
