@@ -11,6 +11,7 @@
 ## Array
 |  |
 | ------- |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/LordZeusIsBack/DSA-Practice/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0204-count-primes](https://github.com/LordZeusIsBack/DSA-Practice/tree/master/0204-count-primes) |
 ## Enumeration
 |  |
@@ -28,4 +29,8 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/LordZeusIsBack/DSA-Practice/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Binary Search
+|  |
+| ------- |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/LordZeusIsBack/DSA-Practice/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 <!---LeetCode Topics End-->
