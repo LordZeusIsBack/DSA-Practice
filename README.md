@@ -33,4 +33,12 @@
 |  |
 | ------- |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/LordZeusIsBack/DSA-Practice/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+## String
+|  |
+| ------- |
+| [0087-scramble-string](https://github.com/LordZeusIsBack/DSA-Practice/tree/master/0087-scramble-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0087-scramble-string](https://github.com/LordZeusIsBack/DSA-Practice/tree/master/0087-scramble-string) |
 <!---LeetCode Topics End-->
