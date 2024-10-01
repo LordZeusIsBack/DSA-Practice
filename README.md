@@ -20,4 +20,12 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/LordZeusIsBack/DSA-Practice/tree/master/0204-count-primes) |
+## Linked List
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/LordZeusIsBack/DSA-Practice/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/LordZeusIsBack/DSA-Practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->
