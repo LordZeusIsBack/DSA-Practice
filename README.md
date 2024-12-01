@@ -41,4 +41,16 @@
 |  |
 | ------- |
 | [0087-scramble-string](https://github.com/LordZeusIsBack/DSA-Practice/tree/master/0087-scramble-string) |
+## Depth-First Search
+|  |
+| ------- |
+| [2201-valid-arrangement-of-pairs](https://github.com/LordZeusIsBack/DSA-Practice/tree/master/2201-valid-arrangement-of-pairs) |
+## Graph
+|  |
+| ------- |
+| [2201-valid-arrangement-of-pairs](https://github.com/LordZeusIsBack/DSA-Practice/tree/master/2201-valid-arrangement-of-pairs) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [2201-valid-arrangement-of-pairs](https://github.com/LordZeusIsBack/DSA-Practice/tree/master/2201-valid-arrangement-of-pairs) |
 <!---LeetCode Topics End-->
